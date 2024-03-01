@@ -1,5 +1,9 @@
 # End to End Data Sceince Project
-This is End-to-End Data Science project which includes:<br>
- * Creating a model which can predict the student percentage based on Gender, ethnicity, parental-level-of education, reading and writing scores.<br>
- * Hosting the model on live server.<br>
- * Deploying the model by creating a web app on AWS using beanstalk. 
+
+Developed and deployed an end-to-end student performance prediction model<br>
+ * Built a machine learning model to predict student performance based on data such as reading and writing scores.
+ * Implemented data cleaning, pre-processing and feature engineering to prepare data for model training. 
+ * Evaluated model performance using various metrics to ensure generalizability and avoid over-fitting.
+ * Hosted the model on a secure live server using AWS Beanstalk.
+ * Designed a user-friendly web app using flask.
+
